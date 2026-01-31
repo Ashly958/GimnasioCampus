@@ -57,4 +57,4 @@ Este proyecto fue posible gracias a la colaboración de:
 
 ---
 
-🔗 Link video de sustentación:  
+🔗 [Link video de sustentación:](https://drive.google.com/file/d/1z2jdOZX0NUCSfYRDxF3NcSyVApNwnFqx/view?usp=drive_link)
